@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Website Avila Digital",
+    "description": "",
+    "home_page_url": "https://siadenlab.iesalonsodemadrigal.es/avila-digital",
+    "feed_url": "https://siadenlab.iesalonsodemadrigal.es/avila-digital/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "SIADEN Lab"
+    },
+    "items": [
+    ]
+}
